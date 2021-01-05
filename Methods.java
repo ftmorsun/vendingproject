@@ -51,6 +51,7 @@ public class Methods {
 			break;
 		}
 		return product.getPrice();
+	
 		
 	}
 

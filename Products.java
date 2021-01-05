@@ -1,10 +1,11 @@
 package vendingmachineproject;
 
+//Create items for vending machine
 public class Products {
 	private double snicker=2.5;
 	private double chipsAhoy=2.2;
-	private double pringles=12.99;
-	private double milano=14.3;
+	private double pringles=2.99;
+	private double milano=1.3;
 	private double reeses=3.9;
 	private double cocaCola=2.2;
 	private double fanta=2.0;
